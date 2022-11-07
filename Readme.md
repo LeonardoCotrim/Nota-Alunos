@@ -1,0 +1,1 @@
+Este é um programa em c# para ler o nome de um aluno e suas três notas durante seus 3 trimestres no ano, também diz se ele foi aprovado ou reprovado e quantos pontos ele precisa para passar de ano
